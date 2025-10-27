@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.fit_gym_flutter"
-    compileSdk = 33
+    compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
